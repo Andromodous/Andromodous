@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Andromodous
-- 👀 I’m interested in Geopolitics, economics and a fan of learning different technologies
-- 🌱 I’m currently learning Java, C++, JavaScript, PHP and front end technologies
-- 📫 How to reach me https://twitter.com/Andromodous
+- 👋 Hi, my name is Berat Appak
+- 👀 I am studying at the University of Technology Sydney and going into my fourth year, [Link here](https://www.uts.edu.au/study/find-a-course/bachelor-science-information-technology-diploma-information-technology-professional-practice) to my degree, I am an Enterprise systems major
+- I’m interested in Geopolitics, economics and a fan of learning different technologies
+- 🌱 I’m currently building experience in front-end technologies like ReactJS, frameworks like materialUI and have a crush on TypeScript
+- I have used a variety of languages like PHP, JavaScript, C++, Java and others during my studies 
+- Most of my github repositories are private which are comprised of programming assessments I have done in the past 
 
 <!---
 Andromodous/Andromodous is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
